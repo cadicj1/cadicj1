@@ -1,5 +1,5 @@
 ## Hi there 👋
-👋 Hi, I'm Mirsad — PHP & Laravel Developer
+👋 Hi, Mirsad here — Full Stack PHP & Laravel Developer
 🔨 Building web apps & e-commerce solutions
 📍 Helsinki
 🚀 Currently working on: Event-Safe Digital Wallet - Java Springboot
